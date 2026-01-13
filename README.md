@@ -12,27 +12,17 @@ Refer to the following markdown file for the respective sections of the class:
 - [Lesson](./lesson.md)
 - [Assignment](./assignment.md)
 - [Quiz](./quiz.md)
-- [Reference](./reference.md)
+- [Reference](./reference.md)S
 
-## Lesson Objectives
+## Lesson ObjectivesS
 
-Learners will understand:
+Ath the end of the lesson, learners shall be able to:
 
-- Definition, Historical Context, Challenges and Applications of Natural Language Processing (NLP)
-- Text Preprocessing
-- Text Normalization
-- Language Modeling
-- Vector Space Model and Word Embeddings
-- Text Classification
+* Apply text preprocessing and **normalization techniques** to transform raw unstructured text into a clean format suitable for analysis.
 
-Learners will be able to:
+* Construct **statistical language models** to estimate the probability of word sequences in a given corpus.
 
-- Preprocess text data
-- Normalize text via stemming and lemmatization
-- Build a language model
-- Measure similarity between documents via vector space model
-- Find similar words via word embeddings
-- Classify text via Naive Bayes
+* Implement the **Vector Space Model (VSM)** using TF-IDF weighting and cosine similarity to mathematically represent text documents and measure their semantic similarity.
 
 ## Lesson Plan
 
